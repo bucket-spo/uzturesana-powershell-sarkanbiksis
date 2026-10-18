@@ -1,0 +1,2 @@
+Get-Service izpildes laiks: 5.2941 ms
+Get-CimInstance izpildes laiks: 277.5892 ms
