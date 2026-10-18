@@ -1,1 +1,6 @@
-Eh???
+$labubu = $get-service | where-object -property starttype -eq 'automatic' | where-object -property status -eq 'stopped'
+if ($labubu.count -eq 0 -or $null -eq $labubu){
+  write-output "0"
+}else {]
+  $labubu | start-service -whatif
+  $labubu | start-service}
