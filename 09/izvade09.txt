@@ -1,0 +1,307 @@
+Name                         UserName
+----                         --------
+Aac3572MbHal_x86             NT AUTHORITY\SYSTEM
+AdobeCollabSync              RALFS-DESKTOP\ralfs
+AdobeCollabSync              RALFS-DESKTOP\ralfs
+AggregatorHost               NT AUTHORITY\SYSTEM
+AppActions                   RALFS-DESKTOP\ralfs
+ApplicationFrameHost         RALFS-DESKTOP\ralfs
+ArmouryAIOFanServer          RALFS-DESKTOP\ralfs
+ArmourySocketServer          RALFS-DESKTOP\ralfs
+ArmourySwAgent               RALFS-DESKTOP\ralfs
+armsvc                       NT AUTHORITY\SYSTEM
+asus_framework               RALFS-DESKTOP\ralfs
+asus_framework               RALFS-DESKTOP\ralfs
+AsusCertService              NT AUTHORITY\SYSTEM
+AsusDownLoadLicense          RALFS-DESKTOP\ralfs
+AsusUpdateCheck              NT AUTHORITY\SYSTEM
+atkexComSvc                  NT AUTHORITY\SYSTEM
+audiodg                      NT AUTHORITY\LOCAL SERVICE
+avp                          NT AUTHORITY\NETWORK SERVICE
+avp
+avp                          NT AUTHORITY\SYSTEM
+avp                          NT AUTHORITY\SYSTEM
+avp                          NT AUTHORITY\SYSTEM
+avpui                        RALFS-DESKTOP\ralfs
+chrome                       RALFS-DESKTOP\ralfs
+chrome                       RALFS-DESKTOP\ralfs
+chrome                       RALFS-DESKTOP\ralfs
+chrome                       RALFS-DESKTOP\ralfs
+chrome                       RALFS-DESKTOP\ralfs
+chrome                       RALFS-DESKTOP\ralfs
+chrome                       RALFS-DESKTOP\ralfs
+chrome                       RALFS-DESKTOP\ralfs
+chrome                       RALFS-DESKTOP\ralfs
+chrome                       RALFS-DESKTOP\ralfs
+chrome                       RALFS-DESKTOP\ralfs
+chrome                       RALFS-DESKTOP\ralfs
+chrome                       RALFS-DESKTOP\ralfs
+chrome                       RALFS-DESKTOP\ralfs
+chrome                       RALFS-DESKTOP\ralfs
+chrome                       RALFS-DESKTOP\ralfs
+chrome                       RALFS-DESKTOP\ralfs
+chrome                       RALFS-DESKTOP\ralfs
+chrome                       RALFS-DESKTOP\ralfs
+chrome                       RALFS-DESKTOP\ralfs
+chrome                       RALFS-DESKTOP\ralfs
+chrome                       RALFS-DESKTOP\ralfs
+chrome                       RALFS-DESKTOP\ralfs
+chrome                       RALFS-DESKTOP\ralfs
+chrome                       RALFS-DESKTOP\ralfs
+conhost                      RALFS-DESKTOP\ralfs
+conhost                      RALFS-DESKTOP\ralfs
+crashpad_handler             NT AUTHORITY\SYSTEM
+crashpad_handler             RALFS-DESKTOP\ralfs
+CrossDeviceResume            RALFS-DESKTOP\ralfs
+csrss
+csrss
+ctfmon                       RALFS-DESKTOP\ralfs
+ctfmon                       NT AUTHORITY\SYSTEM
+dasHost                      NT AUTHORITY\LOCAL SERVICE
+dasHost                      NT AUTHORITY\NETWORK SERVICE
+DataExchangeHost             RALFS-DESKTOP\ralfs
+Discord                      RALFS-DESKTOP\ralfs
+Discord                      RALFS-DESKTOP\ralfs
+Discord                      RALFS-DESKTOP\ralfs
+Discord                      RALFS-DESKTOP\ralfs
+Discord                      RALFS-DESKTOP\ralfs
+Discord                      RALFS-DESKTOP\ralfs
+dllhost                      NT AUTHORITY\SYSTEM
+dllhost                      RALFS-DESKTOP\ralfs
+dllhost                      RALFS-DESKTOP\ralfs
+dllhost                      RALFS-DESKTOP\ralfs
+dllhost                      RALFS-DESKTOP\ralfs
+dllhost                      RALFS-DESKTOP\ralfs
+dwm                          Window Manager\DWM-1
+explorer                     RALFS-DESKTOP\ralfs
+fontdrvhost                  Font Driver Host\UMFD-0
+fontdrvhost                  Font Driver Host\UMFD-1
+GameInputRedistService       NT AUTHORITY\SYSTEM
+GameInputRedistService       RALFS-DESKTOP\ralfs
+GameInputSvc                 NT AUTHORITY\SYSTEM
+GameInputSvc                 NT AUTHORITY\SYSTEM
+gamingservices               NT AUTHORITY\SYSTEM
+gamingservicesnet            NT AUTHORITY\LOCAL SERVICE
+HPPrintScanDoctorService     NT AUTHORITY\SYSTEM
+hpwuschd2                    RALFS-DESKTOP\ralfs
+Idle
+jhi_service                  NT AUTHORITY\SYSTEM
+jucheck                      RALFS-DESKTOP\ralfs
+jusched                      RALFS-DESKTOP\ralfs
+lghub_agent                  RALFS-DESKTOP\ralfs
+lghub_system_tray            RALFS-DESKTOP\ralfs
+lghub_updater                NT AUTHORITY\SYSTEM
+LightingService              NT AUTHORITY\SYSTEM
+LMS                          NT AUTHORITY\SYSTEM
+logi_crashpad_handler        RALFS-DESKTOP\ralfs
+logi_crashpad_handler        NT AUTHORITY\SYSTEM
+logi_lamparray_service.AMD64 NT AUTHORITY\SYSTEM
+lsass
+mega-desktop-app-gfxworker   RALFS-DESKTOP\ralfs
+MEGAsync                     RALFS-DESKTOP\ralfs
+Memory Compression
+MicrosoftStartFeedProvider   RALFS-DESKTOP\ralfs
+MidiSrv                      NT AUTHORITY\LOCAL SERVICE
+MoNotificationUx             RALFS-DESKTOP\ralfs
+MpDefenderCoreService
+msedgewebview2               RALFS-DESKTOP\ralfs
+msedgewebview2               RALFS-DESKTOP\ralfs
+msedgewebview2               RALFS-DESKTOP\ralfs
+msedgewebview2               RALFS-DESKTOP\ralfs
+msedgewebview2               RALFS-DESKTOP\ralfs
+msedgewebview2               RALFS-DESKTOP\ralfs
+msedgewebview2               RALFS-DESKTOP\ralfs
+msedgewebview2               RALFS-DESKTOP\ralfs
+msedgewebview2               RALFS-DESKTOP\ralfs
+msedgewebview2               RALFS-DESKTOP\ralfs
+msedgewebview2               RALFS-DESKTOP\ralfs
+msedgewebview2               RALFS-DESKTOP\ralfs
+msedgewebview2               RALFS-DESKTOP\ralfs
+msedgewebview2               RALFS-DESKTOP\ralfs
+msedgewebview2               RALFS-DESKTOP\ralfs
+msedgewebview2               RALFS-DESKTOP\ralfs
+msedgewebview2               RALFS-DESKTOP\ralfs
+msedgewebview2               RALFS-DESKTOP\ralfs
+msedgewebview2               RALFS-DESKTOP\ralfs
+NoiseCancelingEngine         RALFS-DESKTOP\ralfs
+Notepad                      RALFS-DESKTOP\ralfs
+nvcontainer                  NT AUTHORITY\SYSTEM
+nvcontainer                  NT AUTHORITY\SYSTEM
+nvcontainer                  RALFS-DESKTOP\ralfs
+nvcontainer                  RALFS-DESKTOP\ralfs
+NVDisplay.Container          NT AUTHORITY\SYSTEM
+NVDisplay.Container          NT AUTHORITY\SYSTEM
+NVIDIA Overlay               RALFS-DESKTOP\ralfs
+NVIDIA Overlay               RALFS-DESKTOP\ralfs
+NVIDIA Overlay               RALFS-DESKTOP\ralfs
+NVIDIA Overlay               RALFS-DESKTOP\ralfs
+NVIDIA Overlay               RALFS-DESKTOP\ralfs
+nvsphelper64                 RALFS-DESKTOP\ralfs
+OfficeClickToRun             NT AUTHORITY\SYSTEM
+OneDrive.Sync.Service        RALFS-DESKTOP\ralfs
+OpenConsole                  RALFS-DESKTOP\ralfs
+Overwolf                     RALFS-DESKTOP\ralfs
+OverwolfBrowser              RALFS-DESKTOP\ralfs
+OverwolfBrowser              RALFS-DESKTOP\ralfs
+OverwolfBrowser              RALFS-DESKTOP\ralfs
+OverwolfBrowser              RALFS-DESKTOP\ralfs
+OverwolfHelper               RALFS-DESKTOP\ralfs
+OverwolfHelper64             RALFS-DESKTOP\ralfs
+PhoneExperienceHost          RALFS-DESKTOP\ralfs
+powershell                   RALFS-DESKTOP\ralfs
+powershell                   RALFS-DESKTOP\ralfs
+Registry
+RobloxCrashHandler           RALFS-DESKTOP\ralfs
+RobloxPlayerBeta             RALFS-DESKTOP\ralfs
+RuntimeBroker                RALFS-DESKTOP\ralfs
+RuntimeBroker                RALFS-DESKTOP\ralfs
+RuntimeBroker                RALFS-DESKTOP\ralfs
+RuntimeBroker                RALFS-DESKTOP\ralfs
+RvControlSvc                 NT AUTHORITY\SYSTEM
+RvRvpnGui                    RALFS-DESKTOP\ralfs
+SDXHelper                    RALFS-DESKTOP\ralfs
+SearchFilterHost             NT AUTHORITY\SYSTEM
+SearchHost                   RALFS-DESKTOP\ralfs
+SearchIndexer                NT AUTHORITY\SYSTEM
+SearchProtocolHost           NT AUTHORITY\SYSTEM
+SecurityHealthService
+servicehost                  NT AUTHORITY\SYSTEM
+services
+ShellExperienceHost          RALFS-DESKTOP\ralfs
+ShellHost                    RALFS-DESKTOP\ralfs
+sihost                       RALFS-DESKTOP\ralfs
+smartscreen                  RALFS-DESKTOP\ralfs
+smss
+spoolsv                      NT AUTHORITY\SYSTEM
+StartMenu                    RALFS-DESKTOP\ralfs
+StartMenuExperienceHost      RALFS-DESKTOP\ralfs
+steam                        RALFS-DESKTOP\ralfs
+SteamService                 NT AUTHORITY\SYSTEM
+steamwebhelper               RALFS-DESKTOP\ralfs
+steamwebhelper               RALFS-DESKTOP\ralfs
+steamwebhelper               RALFS-DESKTOP\ralfs
+steamwebhelper               RALFS-DESKTOP\ralfs
+steamwebhelper               RALFS-DESKTOP\ralfs
+steamwebhelper               RALFS-DESKTOP\ralfs
+steamwebhelper               RALFS-DESKTOP\ralfs
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\LOCAL SERVICE
+svchost                      NT AUTHORITY\NETWORK SERVICE
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\LOCAL SERVICE
+svchost                      NT AUTHORITY\LOCAL SERVICE
+svchost                      NT AUTHORITY\LOCAL SERVICE
+svchost                      NT AUTHORITY\LOCAL SERVICE
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\LOCAL SERVICE
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\LOCAL SERVICE
+svchost                      NT AUTHORITY\NETWORK SERVICE
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\NETWORK SERVICE
+svchost                      NT AUTHORITY\LOCAL SERVICE
+svchost                      NT AUTHORITY\LOCAL SERVICE
+svchost                      NT AUTHORITY\NETWORK SERVICE
+svchost                      NT AUTHORITY\LOCAL SERVICE
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\LOCAL SERVICE
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\LOCAL SERVICE
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\LOCAL SERVICE
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\LOCAL SERVICE
+svchost                      NT AUTHORITY\LOCAL SERVICE
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\LOCAL SERVICE
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\LOCAL SERVICE
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\NETWORK SERVICE
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\LOCAL SERVICE
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\LOCAL SERVICE
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\LOCAL SERVICE
+svchost                      NT AUTHORITY\LOCAL SERVICE
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\LOCAL SERVICE
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\LOCAL SERVICE
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\LOCAL SERVICE
+svchost                      RALFS-DESKTOP\ralfs
+svchost
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\SYSTEM
+svchost
+svchost                      NT AUTHORITY\LOCAL SERVICE
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      RALFS-DESKTOP\ralfs
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\LOCAL SERVICE
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      RALFS-DESKTOP\ralfs
+svchost                      RALFS-DESKTOP\ralfs
+svchost                      RALFS-DESKTOP\ralfs
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\LOCAL SERVICE
+svchost                      RALFS-DESKTOP\ralfs
+svchost                      RALFS-DESKTOP\ralfs
+svchost                      RALFS-DESKTOP\ralfs
+svchost                      RALFS-DESKTOP\ralfs
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\SYSTEM
+svchost
+svchost
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\SYSTEM
+svchost                      NT AUTHORITY\LOCAL SERVICE
+svchost                      RALFS-DESKTOP\ralfs
+svchost                      NT AUTHORITY\SYSTEM
+System
+SystemSettings               RALFS-DESKTOP\ralfs
+taskhostw                    RALFS-DESKTOP\ralfs
+TeamViewer                   RALFS-DESKTOP\ralfs
+TeamViewer_Service           NT AUTHORITY\SYSTEM
+Telegram                     RALFS-DESKTOP\ralfs
+TextInputHost                RALFS-DESKTOP\ralfs
+tv_w32                       NT AUTHORITY\SYSTEM
+tv_x64                       NT AUTHORITY\SYSTEM
+unsecapp                     RALFS-DESKTOP\ralfs
+UserOOBEBroker               RALFS-DESKTOP\ralfs
+vmnat                        NT AUTHORITY\SYSTEM
+vmnetdhcp                    NT AUTHORITY\SYSTEM
+vmware-authd                 NT AUTHORITY\SYSTEM
+vmware-tray                  RALFS-DESKTOP\ralfs
+vmware-usbarbitrator64       NT AUTHORITY\SYSTEM
+wallpaper64                  RALFS-DESKTOP\ralfs
+WhatsApp.Root                RALFS-DESKTOP\ralfs
+WidgetBoard                  RALFS-DESKTOP\ralfs
+WidgetService                RALFS-DESKTOP\ralfs
+WindowsTerminal              RALFS-DESKTOP\ralfs
+wininit
+winlogon                     NT AUTHORITY\SYSTEM
+wlanext                      NT AUTHORITY\SYSTEM
+WmiPrvSE                     NT AUTHORITY\NETWORK SERVICE
+WmiPrvSE                     NT AUTHORITY\NETWORK SERVICE
+WMIRegistrationService       NT AUTHORITY\SYSTEM
+WSHelper                     RALFS-DESKTOP\ralfs
+WsNativePushService          NT AUTHORITY\SYSTEM
+WsToastNotification          RALFS-DESKTOP\ralfs
+WUDFHost                     NT AUTHORITY\LOCAL SERVICE
