@@ -1,1 +1,3 @@
-
+$labubusi = det-wmiobject -class win32_systemdriver | where-object -property providername -notmatch "microsoft"
+$labubusi | export-csv -path "draiveri.csv" -notypeinformation
+write-output "CSV failā ir $($labubusi.Count) rindas."
