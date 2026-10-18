@@ -1,7 +1,7 @@
 #Es sapratu beidzot!
 01. Skripts veiksmīgi izvada datora nosaukumu un Windows versiju.
 02. Tiek izvadīti 10 leilākie RAM vietas patērētāji.
-03. Ar cikla palīdzību, tiek veidota servisu summa.
+03. Ar cikla palīdzību, tiek veidota servisu summa un jā, summa sakrīt.
 04. Skriptam vajadzētu itkā izvadīt kaut ko bet... nesagāja.
 05. Skripts norāda cik 48 stundu laikā ir notikušas kļūdas un es secinu ka man ir 77 kļūdas, pārsvarā tās ir problēmas ar RAM.
 06. Skripts izvada cik rindu ir csv failā (es nevaru palaist pašu failu, bet tikai pašu skriptu pašā powershell, nevis ar powershell palīdzūb palaist :/ )
