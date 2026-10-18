@@ -1,0 +1,3 @@
+Disks C: - Kopējais izmērs: 475.32 GB, Brīvā vieta: 166.45 GB
+Disks D: - Kopējais izmērs: 1863.02 GB, Brīvā vieta: 883.42 GB
+Disks E: - Kopējais izmērs: 1863 GB, Brīvā vieta: 570.58 GB
