@@ -3,3 +3,5 @@ Kļūdas: 77
 Disks C: brīvs: 166.45 GB
 Disks D: brīvs: 883.42 GB
 Disks E: brīvs: 570.58 GB
+
+atšķiras procesu skaits
