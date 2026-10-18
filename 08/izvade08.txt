@@ -1,2 +1,4 @@
 Get-Service izpildes laiks: 5.2941 ms
 Get-CimInstance izpildes laiks: 277.5892 ms
+
+ātrāks ir get-service un jā, ātrums ir svarīgs, jo... jo ātrāks, jo ātrāk palaidīsies servis.
