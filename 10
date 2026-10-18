@@ -1,5 +1,1 @@
-Write-Output "Kopsavilkums:"
-Write-Output "Procesu skaits: $((Get-Process).Count)"
-$s = Get-Service; $r=0; $st=0; foreach($srv in $s){if($srv.Status -eq 'Running'){$r++}elseif($srv.Status -eq 'Stopped'){$st++}}; Write-Output "Servisi darbojas: $r, apturēti: $st"
-$err = Get-EventLog -LogName System -EntryType Error -After ((Get-Date).AddHours(-48)); Write-Output "Kļūdas: $($err.Count)"
-Get-CimInstance -ClassName Win32_LogicalDisk -Filter "DriveType=3" | ForEach-Object { Write-Output "Disks $($_.DeviceID) brīvs: $([math]::Round($_.FreeSpace / 1GB, 2)) GB" }
+
