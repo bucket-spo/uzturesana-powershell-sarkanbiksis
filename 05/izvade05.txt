@@ -1,0 +1,5 @@
+Kļūdu skaits pēdējās 48 stundās: 77
+Count Name                      Group
+----- ----                      -----
+   76 DCOM                      {System.Diagnostics.EventLogEntry, System.Diagnostics.EventLogEntry, System.Diagnost...
+
