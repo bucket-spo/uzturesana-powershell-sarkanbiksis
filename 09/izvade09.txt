@@ -1,3 +1,15 @@
+bez administrātoraL:
+get-process : The 'IncludeUserName' parameter requires elevated user rights. Try running the command again in a
+session that has been opened with elevated user rights (that is, Run as Administrator).
+At line:1 char:1
++ get-process -includeusername | select-object -property name, username
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Get-Process], InvalidOperationException
+    + FullyQualifiedErrorId : IncludeUserNameRequiresElevation,Microsoft.PowerShell.Commands.GetProcessCommand
+
+
+
+ar administrātoru:
 Name                         UserName
 ----                         --------
 Aac3572MbHal_x86             NT AUTHORITY\SYSTEM
