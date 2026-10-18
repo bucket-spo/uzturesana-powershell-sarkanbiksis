@@ -1,0 +1,3 @@
+Datora nosaukums: RALFS-DESKTOP
+Operētājsistēma: Microsoft Windows 11 Pro; Būvējums: 26200
+Procesu skaits šobrīd: 300
