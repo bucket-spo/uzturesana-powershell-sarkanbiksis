@@ -1,14 +1,1 @@
-$labubu = get-service
-$running = 0
-$stopped = 0
-foreach ($ububal in $labubu) {
-  if($ububal.status -eq 'running'){
-    $running = $running + 1
-  }elseif ($ububal.status -eq 'stopped'){
-    $stopped = $stopped + 1
-  }
-}
-$sum = $running + $stopped
-write-output "Darbojas: $running"
-write-output "Apturēti: $stopped"
-write-output "Kopā: $sum"
+
