@@ -1,0 +1,61 @@
+] : The term ']' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:3 char:8
++ }else {]
++        ~
+    + CategoryInfo          : ObjectNotFound: (]:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+What if: Performing the operation "Start-Service" on target "ASUS Update Service (asus) (asus)".
+What if: Performing the operation "Start-Service" on target "AsusROGLSLService Download ROGLSLoader (AsusROGLSLService)".
+What if: Performing the operation "Start-Service" on target "Microsoft Edge Update Service (edgeupdate) (edgeupdate)".
+What if: Performing the operation "Start-Service" on target "Google Updater Internal Service (GoogleUpdaterInternalService157.0.8089.0) (GoogleUpdaterInternalService157.0.8089.0)".
+What if: Performing the operation "Start-Service" on target "Google Updater Service (GoogleUpdaterService157.0.8089.0) (GoogleUpdaterService157.0.8089.0)".
+What if: Performing the operation "Start-Service" on target "Intel(R) TPM Provisioning Service (Intel(R) TPM Provisioning Service)".
+What if: Performing the operation "Start-Service" on target "Downloaded Maps Manager (MapsBroker)".
+What if: Performing the operation "Start-Service" on target "Software Protection (sppsvc)".
+start-service : Service 'ASUS Update Service (asus) (asus)' cannot be started due to the following error: Cannot open
+asus service on computer '.'.
+At line:5 char:13
++   $labubu | start-service}
++             ~~~~~~~~~~~~~
+    + CategoryInfo          : OpenError: (System.ServiceProcess.ServiceController:ServiceController) [Start-Service],
+   ServiceCommandException
+    + FullyQualifiedErrorId : CouldNotStartService,Microsoft.PowerShell.Commands.StartServiceCommand
+
+start-service : Service 'AsusROGLSLService Download ROGLSLoader (AsusROGLSLService)' cannot be started due to the
+following error: Cannot open AsusROGLSLService service on computer '.'.
+At line:5 char:13
++   $labubu | start-service}
++             ~~~~~~~~~~~~~
+    + CategoryInfo          : OpenError: (System.ServiceProcess.ServiceController:ServiceController) [Start-Service],
+   ServiceCommandException
+    + FullyQualifiedErrorId : CouldNotStartService,Microsoft.PowerShell.Commands.StartServiceCommand
+
+start-service : Service 'Microsoft Edge Update Service (edgeupdate) (edgeupdate)' cannot be started due to the
+following error: Cannot open edgeupdate service on computer '.'.
+At line:5 char:13
++   $labubu | start-service}
++             ~~~~~~~~~~~~~
+    + CategoryInfo          : OpenError: (System.ServiceProcess.ServiceController:ServiceController) [Start-Service],
+   ServiceCommandException
+    + FullyQualifiedErrorId : CouldNotStartService,Microsoft.PowerShell.Commands.StartServiceCommand
+
+start-service : Service 'Google Updater Internal Service (GoogleUpdaterInternalService157.0.8089.0)
+(GoogleUpdaterInternalService157.0.8089.0)' cannot be started due to the following error: Cannot open
+GoogleUpdaterInternalService157.0.8089.0 service on computer '.'.
+At line:5 char:13
++   $labubu | start-service}
++             ~~~~~~~~~~~~~
+    + CategoryInfo          : OpenError: (System.ServiceProcess.ServiceController:ServiceController) [Start-Service],
+   ServiceCommandException
+    + FullyQualifiedErrorId : CouldNotStartService,Microsoft.PowerShell.Commands.StartServiceCommand
+
+start-service : Service 'Google Updater Service (GoogleUpdaterService157.0.8089.0) (GoogleUpdaterService157.0.8089.0)'
+cannot be started due to the following error: Cannot open GoogleUpdaterService157.0.8089.0 service on computer '.'.
+At line:5 char:13
++   $labubu | start-service}
++             ~~~~~~~~~~~~~
+    + CategoryInfo          : OpenError: (System.ServiceProcess.ServiceController:ServiceController) [Start-Service],
+   ServiceCommandException
+    + FullyQualifiedErrorId : CouldNotStartService,Microsoft.PowerShell.Commands.StartServiceCommand
