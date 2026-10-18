@@ -1,0 +1,6 @@
+$os = get-ciminstance -classname win32_operatingsystem
+$process = (get-process).count
+write-output "Datora nosaukums: $($env:computername)"
+write-output "Operētājsistēma: $($os.caption); Būvējums: $($os.buildnumber)"
+write-output "PowerShell versija: $($psversiontable.psversion)"
+write-output "Procesu skaits šobrīd: $process"
