@@ -1,1 +1,5 @@
+get-process -includeusername | select-object -property name, username
 
+#man jau šķiet ka šī komanda obligāti pieprasīs administrātoru, ja?
+#nē
+#nu labi...
