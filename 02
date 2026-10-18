@@ -1,1 +1,1 @@
-get-process | sort-object -property workingset -descending | select-object -first 10 | sort-object -property workingset | select-object -property name, id, @{name='RAM (MB)'; expression={[math]::round($_.workingset / 1MB,1)}}
+
